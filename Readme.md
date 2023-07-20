@@ -1,3 +1,3 @@
 # Example
 
-![VIDEO FILE](./video.mp4)
+![CHEESE!](./video.mp4)
